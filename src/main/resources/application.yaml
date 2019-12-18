@@ -1,0 +1,4 @@
+k8s:
+  nodeName: ${NODE_NAME:no_node_name_set}
+  podName: ${POD_NAME:no_pod_name_set}
+  podIp: ${POD_IP:not_pod_ip_set}
