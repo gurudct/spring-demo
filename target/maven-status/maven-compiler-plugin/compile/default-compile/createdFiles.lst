@@ -1,1 +1,3 @@
 com/gke/demo/DemoApplication.class
+com/gke/demo/controller/K8sInfoController.class
+com/gke/demo/model/K8Info.class
